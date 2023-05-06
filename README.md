@@ -1,7 +1,5 @@
 # New-AI-Model-Based-on-Arithmetic-Geometry-VAE
 
-This is a high-level overview of how these concepts can be combined and a starting point for your implementation in Python.
-
 ## Description
 1. Number theory: Number theory can be utilized in the AI model by representing data in the form of number sequences or numerical patterns. Prime numbers or other mathematical properties can be used to encode information.
 2. Geometry: Incorporate geometric concepts such as shapes, transformations, and distances to represent and manipulate the data. Topological Data Analysis (TDA) can be employed to uncover hidden structures and patterns in the data.
